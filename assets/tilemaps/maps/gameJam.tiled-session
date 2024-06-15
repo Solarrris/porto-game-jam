@@ -1,0 +1,455 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps_tmx/level_3/map_lvl3-1.tmx",
+    "expandedProjectPaths": [
+        "maps_tmx/level_0",
+        "maps_tmx",
+        "maps",
+        ".",
+        "maps_tmx/level_3"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "Set sprites 0.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "big_spaceship.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "elements_interactifs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "elements_interactifs_BH.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "map_lvl0.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600.6666666666666,
+                "y": 220
+            }
+        },
+        "map_lvl1-1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 354.66666666666674,
+                "y": 32
+            }
+        },
+        "map_lvl1-2.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159,
+                "y": 177
+            }
+        },
+        "map_lvl1.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -277,
+                "y": -118
+            }
+        },
+        "maps/big_spaceship.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/elements_interactifs.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/map_lvl0.tmx": {
+            "scale": 0.7520833333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 570.415512465374,
+                "y": 408.1994459833795
+            }
+        },
+        "maps/map_lvl1-1.tmx": {
+            "scale": 0.582258064516129,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 740.2216066481996,
+                "y": 506.6481994459834
+            }
+        },
+        "maps/map_lvl1-2.tmx": {
+            "scale": 53.199999999999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7.98872180451128,
+                "y": 8.007518796992482
+            }
+        },
+        "maps/setSpritesNiveau0.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/setSpritesNiveau1.tsx": {
+            "scaleInDock": 1
+        },
+        "maps_tmx/level_0/map_lvl0.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2,
+                8,
+                5
+            ],
+            "scale": 0.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 552,
+                "y": 376
+            }
+        },
+        "maps_tmx/level_1/end_level.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps_tmx/level_1/map_lvl1-1.tmx": {
+            "expandedGroupLayers": [
+                6
+            ],
+            "expandedObjectLayers": [
+                9,
+                4,
+                6
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 263.6363636363636,
+                "y": 266.6666666666665
+            }
+        },
+        "maps_tmx/level_1/map_lvl1-2.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4,
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1200,
+                "y": 481.81818181818176
+            }
+        },
+        "maps_tmx/level_1/map_lvl1-2bis.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 185,
+                "y": 904.5
+            }
+        },
+        "maps_tmx/level_1/map_lvl1-3.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5,
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 230,
+                "y": 167
+            }
+        },
+        "maps_tmx/level_2/map_lvl2-1.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "expandedObjectLayers": [
+                2,
+                6,
+                5
+            ],
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 840,
+                "y": 240
+            }
+        },
+        "maps_tmx/level_2/map_lvl2-2.tmx": {
+            "expandedObjectLayers": [
+                3,
+                5
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 800,
+                "y": 159.99999999999994
+            }
+        },
+        "maps_tmx/level_3/map_lvl3-1.tmx": {
+            "expandedObjectLayers": [
+                4,
+                7,
+                6,
+                8,
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2196,
+                "y": 863
+            }
+        },
+        "maps_tmx/tiles_set/big_spaceship.tsx": {
+            "scaleInDock": 1
+        },
+        "maps_tmx/tiles_set/elements_interactifs.tsx": {
+            "scaleInDock": 1
+        },
+        "maps_tmx/tiles_set/setSpritesNiveau0.tsx": {
+            "scaleInDock": 1
+        },
+        "maps_tmx/tiles_set/setSpritesNiveau1.tsx": {
+            "scaleInDock": 1
+        },
+        "porte.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "setSpritesNiveau0.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "setSpritesNiveau1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "setSpritesNiveau2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "test.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tiles_set/Acide.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/acide.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles_set/big_spaceship.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/collectable_algo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tiles_set/collectable_gravigun.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "tiles_set/collectable_gravitum.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "tiles_set/collectable_inversum.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "tiles_set/collectables/collectable_algo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/collectables/collectable_gravigun.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/collectables/collectable_gravitum.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/collectables/collectable_inversum.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/elements_interactifs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/accroche.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 32
+        },
+        "tiles_set/interactives/big_spaceship.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tiles_set/interactives/bloc32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/bloc48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/elements_interactifs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/end_level.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/game_signs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/game_signs.tsx.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/plateforme-1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/plateforme-2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/plateforme-3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/interactives/portal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tiles_set/interactives/porte.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tiles_set/maps_sprites_set/setSpritesNiveau5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/maps_sprites_set/setSpritesTemple.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/porte.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/setSpritesNiveau0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/setSpritesNiveau1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tiles_set/setSpritesNiveau2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tiles_set/setSpritesNiveau3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tiles_set/setSpritesNiveau4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tiles_set/setSpritesNiveau5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles_set/vaisseau.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "vaisseau.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "last.externalTilesetPath": "/home/robin-courault/Documents/maps/tiles_set/maps_sprites_set",
+    "last.imagePath": "/home/robin-courault/Documents/maps/pictures_folder/collectables_elements",
+    "map.fixedSize": true,
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "maps_tmx/level_0/map_lvl0.tmx",
+        "maps_tmx/level_1/map_lvl1-1.tmx",
+        "maps_tmx/level_1/map_lvl1-2.tmx",
+        "maps_tmx/level_2/map_lvl2-1.tmx",
+        "maps_tmx/level_2/map_lvl2-2.tmx",
+        "maps_tmx/level_3/map_lvl3-1.tmx"
+    ],
+    "project": "gameJam.tiled-project",
+    "property.type": "object",
+    "recentFiles": [
+        "maps_tmx/level_0/map_lvl0.tmx",
+        "maps_tmx/level_1/map_lvl1-1.tmx",
+        "maps_tmx/level_1/map_lvl1-2.tmx",
+        "maps_tmx/level_2/map_lvl2-1.tmx",
+        "maps_tmx/level_2/map_lvl2-2.tmx",
+        "maps_tmx/level_3/map_lvl3-1.tmx",
+        "tiles_set/collectables/collectable_inversum.tsx",
+        "maps_tmx/level_1/map_lvl1-2bis.tmx",
+        "tiles_set/collectables/collectable_gravitum.tsx",
+        "maps_tmx/level_1/map_lvl1-3.tmx",
+        "tiles_set/interactives/plateforme-3.tsx",
+        "tiles_set/interactives/plateforme-2.tsx"
+    ],
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}
